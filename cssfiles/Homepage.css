@@ -1,0 +1,187 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700&family=Oswald:wght@700&display=swap');
+
+html {
+    background-image: url("images/homebackground2.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.cta {
+    position: absolute;
+    margin: 0;
+    right: 15vw;
+    top: 65vh;
+    width: 35vw;
+    height: 12vh;
+    background-color: #DB5252;
+    text-align: center;   
+    border-radius: 12px; 
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 6.3vh;
+    letter-spacing: 8px;
+    line-height: 12vh;
+}
+
+nav {
+    display: none;
+    left: 0;
+    width: 11.5%;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    font-family: Montserrat;
+    background-color: rgba(241, 241, 241, 0.1);
+    
+}
+
+nav.inactive {
+    display: block;
+    margin-left: -11.5%;
+    animation-duration: 0.5s;
+    animation-name: slideout;
+}
+
+nav.active {
+    display: block;
+    margin-left: 0;
+    animation-duration: 0.5s;
+    animation-name: slidein;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 2vh;
+    margin: 0;
+    padding: 28vh 0 0 0;
+    z-index: 1;
+    text-align: center;
+    display: block;
+}
+
+ul li a {
+    text-decoration: none;
+    display: block;
+    font-weight: bold;
+    color: #e2e2e7;
+    letter-spacing: 2.5px;
+    padding: 1em 0.5em;
+    margin-top: 20%;
+    z-index: 1;
+    cursor: pointer;
+}
+
+ul li a:hover {
+    background-color: rgba(103, 170, 247, 0.4);
+}
+
+img.dropdown {
+    position: absolute;
+    padding: 3%;
+    margin-top: 12.5vh;
+    width: 3.3%;
+    height: auto;
+}
+
+main {
+    position: absolute;
+    color: #fff;
+    display: grid;
+    z-index: 5;
+    padding: 1em 1em 1em 1.5em;
+    top: 28vh;
+    margin: 0;
+    cursor: default;
+}
+
+h1, h2 {
+    font-family: Oswald;
+    font-size: 10vh;
+    margin: 0;
+    letter-spacing: 2.5px;
+}
+
+h1 {
+    padding: 0.5vw 1vw 0vw 1vw;
+}
+
+h2 {
+    padding: 0vw 1vw 1vw 1vw;
+}
+
+img.doubleline {
+    width: 40%;
+    height: auto;
+}
+
+p1, p2 {
+    font-family: Montserrat;
+    padding: 1vw;
+    font-size: 3vh;
+}
+
+p2 {
+    padding-top: 0;
+}
+
+main.inactive {
+    animation-duration: 0.5s;
+    animation-name: slideout2;
+    margin-left: 0;
+}
+
+main.active {
+    animation-duration: 0.5s;
+    animation-name: slidein2;
+    margin-left: 11.5%;
+}
+
+@keyframes slidein {
+    from {
+      margin-left: -11.5%;
+    }
+  
+    to {
+      margin-left: 0%;
+    }
+}
+
+@keyframes slideout {
+    from {
+      margin-left: 0;
+    }
+  
+    to {
+      margin-left: -11.5%;
+    }
+}
+
+@keyframes slidein2 {
+    from {
+      margin-left: 0;
+    }
+  
+    to {
+      margin-left: 11.5%;
+    }
+}
+
+@keyframes slideout2 {
+    from {
+      margin-left: 11.5%;
+    }
+  
+    to {
+      margin-left: 0;
+    }
+}

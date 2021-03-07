@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="768px" height="405px" viewbox="0 0 768 405" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient x1="0.46279767" y1="1.5869488" x2="0.45982143" y2="0" id="gradient_1">
+      <stop offset="0" stop-color="#000000" />
+      <stop offset="1" stop-color="#051D39" />
+    </linearGradient>
+    <filter filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB" id="filter_1">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" />
+      <feMorphology radius="4" operator="dilate" in="SourceAlpha" result="effect0_dropShadow" />
+      <feOffset dx="0" dy="0" />
+      <feGaussianBlur stdDeviation="3" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0.39215687 0 0 0 0 0.39215687 0 0 0 0 0.39215687 0 0 0 0.49803922 0" />
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect0_dropShadow" />
+      <feBlend mode="normal" in="SourceGraphic" in2="effect0_dropShadow" result="shape" />
+    </filter>
+    <rect width="768" height="405" id="slice_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#slice_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="Slice" clip-path="url(#clip_1)">
+    <use xlink:href="#slice_1" stroke="none" fill="none" />
+    <g id="Background">
+      <path d="M0 0L768 0L768 405L0 405L0 0Z" id="Background" fill="url(#gradient_1)" fill-rule="evenodd" stroke="none" />
+    </g>
+    <g id="Circles" transform="translate(261 -87)">
+      <g id="Star-things" transform="translate(60.360107 83.31036)">
+        <path d="M0 1.56207C0 0.699364 0.711866 0 1.59 0C2.46813 0 3.17999 0.699364 3.17999 1.56207C3.17999 2.42478 2.46813 3.12415 1.59 3.12415C0.711866 3.12415 0 2.42478 0 1.56207Z" transform="translate(150.5199 362.39984)" id="Ellipse" fill="#FFFFFF" fill-opacity="0.49803922" fill-rule="evenodd" stroke="none" filter="url(#filter_1)" />
+        <path d="M0 1.56207C0 0.699364 0.711866 0 1.59 0C2.46813 0 3.17999 0.699364 3.17999 1.56207C3.17999 2.42478 2.46813 3.12415 1.59 3.12415C0.711866 3.12415 0 2.42478 0 1.56207Z" transform="translate(324.36005 387.39325)" id="Ellipse-8" fill="#FFFFFF" fill-opacity="0.49803922" fill-rule="evenodd" stroke="none" filter="url(#filter_1)" />
+        <path d="M0 1.56207C0 0.699364 0.711867 0 1.59 0C2.46813 0 3.18 0.699364 3.18 1.56207C3.18 2.42478 2.46813 3.12415 1.59 3.12415C0.711867 3.12415 0 2.42478 0 1.56207Z" transform="translate(40.28 253.05515)" id="Ellipse-2" fill="#FFFFFF" fill-opacity="0.49803922" fill-rule="evenodd" stroke="none" filter="url(#filter_1)" />
+        <path d="M0 1.56207C0 0.699364 0.711867 0 1.59 0C2.46813 0 3.18 0.699364 3.18 1.56207C3.18 2.42478 2.46813 3.12415 1.59 3.12415C0.711867 3.12415 0 2.42478 0 1.56207Z" transform="translate(18.019989 325.9517)" id="Ellipse-3" fill="#FFFFFF" fill-opacity="0.49803922" fill-rule="evenodd" stroke="none" filter="url(#filter_1)" />
+        <path d="M0 1.56207C0 0.69936 0.711867 0 1.59 0C2.46813 0 3.18 0.69936 3.18 1.56207C3.18 2.42477 2.46813 3.12413 1.59 3.12413C0.711867 3.12413 0 2.42477 0 1.56207Z" transform="translate(0 166.62067)" id="Ellipse-6" fill="#FFFFFF" fill-opacity="0.49803922" fill-rule="evenodd" stroke="none" filter="url(#filter_1)" />
+        <path d="M0 1.56207C0 0.699362 0.711867 0 1.59 0C2.46813 0 3.18 0.699362 3.18 1.56207C3.18 2.42478 2.46813 3.12414 1.59 3.12414C0.711867 3.12414 0 2.42478 0 1.56207Z" transform="translate(106.00012 71.85516)" id="Ellipse-4" fill="#FFFFFF" fill-opacity="0.49803922" fill-rule="evenodd" stroke="none" filter="url(#filter_1)" />
+        <path d="M0 1.56207C0 0.699362 0.711867 0 1.59 0C2.46813 0 3.18 0.699362 3.18 1.56207C3.18 2.42478 2.46813 3.12414 1.59 3.12414C0.711867 3.12414 0 2.42478 0 1.56207Z" transform="translate(28.619995 37.489655)" id="Ellipse-5" fill="#FFFFFF" fill-opacity="0.49803922" fill-rule="evenodd" stroke="none" filter="url(#filter_1)" />
+        <path d="M0 1.56207C0 0.699362 0.711866 0 1.59 0C2.46813 0 3.17999 0.699362 3.17999 1.56207C3.17999 2.42478 2.46813 3.12414 1.59 3.12414C0.711866 3.12414 0 2.42478 0 1.56207Z" transform="translate(211.99988 0)" id="Ellipse-7" fill="#FFFFFF" fill-opacity="0.49803922" fill-rule="evenodd" stroke="none" filter="url(#filter_1)" />
+        <path d="M0 1.56207C0 0.699362 0.711866 0 1.59 0C2.46813 0 3.17999 0.699362 3.17999 1.56207C3.17999 2.42478 2.46813 3.12414 1.59 3.12414C0.711866 3.12414 0 2.42478 0 1.56207Z" transform="translate(424 34.36551)" id="Ellipse-9" fill="#FFFFFF" fill-opacity="0.49803922" fill-rule="evenodd" stroke="none" filter="url(#filter_1)" />
+        <path d="M0 1.56207C0 0.699362 0.711866 0 1.59 0C2.46813 0 3.17999 0.699362 3.17999 1.56207C3.17999 2.42478 2.46813 3.12414 1.59 3.12414C0.711866 3.12414 0 2.42478 0 1.56207Z" transform="translate(344.5 53.110336)" id="Ellipse-10" fill="#FFFFFF" fill-opacity="0.49803922" fill-rule="evenodd" stroke="none" filter="url(#filter_1)" />
+      </g>
+      <path d="M0 302C0 135.21 142.373 0 318 0C493.626 0 636 135.21 636 302C636 468.79 493.626 604 318 604C142.373 604 0 468.79 0 302Z" id="Ellipse" fill="#F4F3F3" fill-opacity="0.047058824" fill-rule="evenodd" stroke="none" />
+      <path d="M0 266.169C0 119.168 125.482 0 280.271 0C435.061 0 560.542 119.168 560.542 266.169C560.542 413.171 435.061 532.339 280.271 532.339C125.482 532.339 0 413.171 0 266.169Z" transform="translate(38.72876 35.830536)" id="Ellipse-2" fill="#F4F3F3" fill-opacity="0.06666667" fill-rule="evenodd" stroke="none" />
+      <path d="M0 230.339C0 103.126 108.59 0 242.542 0C376.495 0 485.085 103.126 485.085 230.339C485.085 357.552 376.495 460.678 242.542 460.678C108.59 460.678 0 357.552 0 230.339Z" transform="translate(76.45764 71.66101)" id="Ellipse-3" fill="#F4F3F3" fill-opacity="0.08627451" fill-rule="evenodd" stroke="none" />
+      <path d="M0 194.508C0 87.0844 91.6982 0 204.814 0C317.929 0 409.627 87.0844 409.627 194.508C409.627 301.933 317.929 389.017 204.814 389.017C91.6982 389.017 0 301.933 0 194.508Z" transform="translate(114.1864 107.491516)" id="Ellipse-4" fill="#F4F3F3" fill-opacity="0.10980392" fill-rule="evenodd" stroke="none" />
+      <path d="M0 158.678C0 71.0425 74.8064 0 167.085 0C259.363 0 334.169 71.0425 334.169 158.678C334.169 246.313 259.363 317.356 167.085 317.356C74.8064 317.356 0 246.313 0 158.678Z" transform="translate(151.91516 146.39319)" id="Ellipse-5" fill="#F1F1F1" fill-rule="evenodd" stroke="none" />
+    </g>
+    <path d="M0 71.5C0 32.0116 60.8893 0 136 0C211.111 0 272 32.0116 272 71.5C272 110.988 211.111 143 136 143C60.8893 143 0 110.988 0 71.5Z" transform="translate(-117 -87)" id="Ellipse" fill="#F1F1F1" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>
